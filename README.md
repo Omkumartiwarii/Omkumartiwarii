@@ -1,25 +1,47 @@
-# 👋 Hello there! I'm Om Kumar Tiwari
+# 👋 Hey there! I'm Om Kumar Tiwari
 
-Welcome to my GitHub profile! I'm a passionate developer who loves building things on the web and constantly learning new technologies.
+Welcome to my GitHub! I'm a curious mind who enjoys turning ideas into interactive web experiences, and turning coffee into code ☕💻
 
-## 🚀 About Me
+---
 
-- 🔭 I’m currently diving deep into **Data Structures and Algorithms (C++)**
-- 🌐 I’m passionate about **Web Development**
-- 🤝 I’m looking to collaborate on **Open Source Web Projects**
-- 📧 Reach me at: **omkumar00116@gmail.com**
+## 🧑‍💻 About Me
+
+- 🔥 Passionate about **Web Development**
+- 📚 Currently learning **Data Structures & Algorithms (in C++)**
+- 🌍 Open to collaborating on **Open Source Web Projects**
+- 📫 Reach me at: **omkumar00116@gmail.com**
 - 😄 Pronouns: **He/Him**
-- ☕ Fun Fact: *I love turning coffee into code and bugs into features!*
+- ⚡ Fun fact: *I can turn bugs into features — intentionally or not!*
 
-## 💻 Tech Stack
+---
 
-- **Languages:** HTML, CSS, JavaScript, C++
-- **Frameworks/Libraries:** React (Learning), Bootstrap
-- **Tools:** Git, GitHub, VS Code
+## 🛠️ Tech I Work With
 
-## 📈 GitHub Stats
+| Frontend        | Backend / Logic     | Tools & Others       |
+|----------------|---------------------|-----------------------|
+| HTML, CSS      | C++ (DSA)           | Git & GitHub          |
+| JavaScript     | (Learning React)    | VS Code               |
+| Bootstrap      |                     | Chrome DevTools       |
 
-![Omkumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Omkumartiwari&show_icons=true&theme=radical)
+---
+
+## 📊 GitHub Stats
+
+![Om's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Omkumartiwari&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Omkumartiwari&layout=compact&theme=tokyonight)
+
+---
+
+## 🔗 Let's Connect!
+
+Whether it’s collaborating on open source, sharing ideas, or just geeking out on tech — feel free to reach out!
+
+📧 **omkumar00116@gmail.com**
+
+---
+
+*Thanks for stopping by! Keep coding and keep learning 🚀*
 
 ---
 
