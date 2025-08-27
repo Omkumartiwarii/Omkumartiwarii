@@ -1,12 +1,26 @@
-- 👋 Hi, I’m @Omkumartiwari
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning DSA(C++)
-- 💞️ I’m looking to collaborate on open source web development projects
-- 📫 How to reach me : omkumar00116@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love turning coffee into code and bugs into features!
+# 👋 Hello there! I'm Om Kumar Tiwari
 
-<!---
-Omkumartiwarii/Omkumartiwarii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub profile! I'm a passionate developer who loves building things on the web and constantly learning new technologies.
+
+## 🚀 About Me
+
+- 🔭 I’m currently diving deep into **Data Structures and Algorithms (C++)**
+- 🌐 I’m passionate about **Web Development**
+- 🤝 I’m looking to collaborate on **Open Source Web Projects**
+- 📧 Reach me at: **omkumar00116@gmail.com**
+- 😄 Pronouns: **He/Him**
+- ☕ Fun Fact: *I love turning coffee into code and bugs into features!*
+
+## 💻 Tech Stack
+
+- **Languages:** HTML, CSS, JavaScript, C++
+- **Frameworks/Libraries:** React (Learning), Bootstrap
+- **Tools:** Git, GitHub, VS Code
+
+## 📈 GitHub Stats
+
+![Omkumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Omkumartiwari&show_icons=true&theme=radical)
+
+---
+
+Thanks for visiting my profile! Feel free to connect or collaborate 🚀
