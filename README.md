@@ -11,6 +11,7 @@
 <br/>
 
 <!-- Badges Row -->
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Om_Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omkumar00116)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://omkumartiwarii.github.io/portfoliowebsite/)
 [![Email](https://img.shields.io/badge/Gmail-omkumar00116@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omkumar00116@gmail.com)
@@ -55,18 +56,35 @@ print(me.currently())
 
 <div align="center">
 
+## 🛠️ Technical Skills
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+![Technical Support](https://img.shields.io/badge/Technical_Support-4CAF50?style=for-the-badge)
+![Database_Management](https://img.shields.io/badge/Database_Management-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Problem_Solving](https://img.shields.io/badge/Problem_Solving-FF9800?style=for-the-badge)
+![Customer_Support](https://img.shields.io/badge/Customer_Support-2196F3?style=for-the-badge)
 
 </div>
 
@@ -75,6 +93,7 @@ print(me.currently())
 ## 🚀 Featured Project
 
 ### 🗓️ Clash-Free Timetable Management System
+
 > Automates timetable generation & eliminates scheduling conflicts
 
 - ⚙️ **Tech:** Django + PostgreSQL + Django REST Framework
@@ -86,12 +105,12 @@ print(me.currently())
 
 ## 💼 Experience Highlights
 
-| 🏢 Organization | 💼 Role | 📅 Duration |
-|---|---|---|
-| **GRIP Program** | Data Science & Business Analytics | Nov–Dec 2025 |
-| **Cisco** | Data Science Virtual Intern | Sep–Oct 2024 |
-| **Spoken Tutorial (IIT Bombay)** | Python Developer Intern | Sep–Oct 2024 |
-| **Salesforce** | Virtual Intern | Dec 2023–Jan 2024 |
+| 🏢 Organization                  | 💼 Role                           | 📅 Duration       |
+| -------------------------------- | --------------------------------- | ----------------- |
+| **GRIP Program**                 | Data Science & Business Analytics | Nov–Dec 2025      |
+| **Cisco**                        | Data Science Virtual Intern       | Sep–Oct 2024      |
+| **Spoken Tutorial (IIT Bombay)** | Python Developer Intern           | Sep–Oct 2024      |
+| **Salesforce**                   | Virtual Intern                    | Dec 2023–Jan 2024 |
 
 > 🏆 Built predictive models with **~85% accuracy** | Reduced preprocessing time by **50%** | Automated workflows cutting manual effort by **40%**
 
@@ -135,7 +154,7 @@ print(me.currently())
 
 ### 💬 Let's Connect!
 
-*"I enjoy solving real-world problems through technology — whether building backends, automating workflows, or analyzing data."*
+_"I enjoy solving real-world problems through technology — whether building backends, automating workflows, or analyzing data."_
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/omkumar00116)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat-square&logo=firefox)](https://omkumartiwarii.github.io/portfoliowebsite/)
