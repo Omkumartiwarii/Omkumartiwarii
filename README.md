@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Om%20Kumar&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Python%20Developer%20%7C%20Django%20%7C%20Data%20Analytics&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Om%20Kumar&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Python%20Developer%20%7C%20Django%20Backend%20Developer%20%7C%20Open%20to%20Work&descAlignY=55&descSize=20" width="100%"/>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
@@ -15,7 +15,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Om_Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omkumar00116)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://omkumartiwarii.github.io/portfoliowebsite/)
 [![Email](https://img.shields.io/badge/Gmail-omkumar00116@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omkumar00116@gmail.com)
-[![GitHub followers](https://img.shields.io/github/followers/Omkumartiwarii?style=for-the-badge&logo=github&color=181717)](https://github.com/Omkumartiwarii)
+[![GitHub followers](https://img.shields.io/github/followers/Omkumartiwarii?style=for-the-badge&logo=github&color=181717)]([https://github.com/Omkumartiwarii](https://github.com/Omkumartiwarii?tab=followers))
 
 </div>
 
