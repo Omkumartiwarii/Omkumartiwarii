@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Custom Banner - Upload this image to your repo as 'banner.png' -->
-<img src="https://raw.githubusercontent.com/Omkumartiwarii/Omkumartiwarii/main/banner.png" width="100%" alt="Om Kumar Banner"/>
+<img src="Github Banner.png" width="100%" alt="Om Kumar Banner"/>
 
 <br/><br/>
 
