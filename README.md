@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Omkumartiwarii/Omkumartiwarii/main/banner.png" width="100%" alt="Om Kumar Banner"/>
+<img src="https://raw.githubusercontent.com/Omkumartiwarii/Omkumartiwarii/main/banner.svg" width="100%" alt="Om Kumar Banner"/>
 
 <br/><br/>
 
