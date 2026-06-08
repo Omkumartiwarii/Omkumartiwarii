@@ -1,48 +1,146 @@
-# 👋 Hey there! I'm Om Kumar Tiwari
+<div align="center">
 
-Welcome to my GitHub! I'm a curious mind who enjoys turning ideas into interactive web experiences, and turning coffee into code ☕💻
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Om%20Kumar&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Python%20Developer%20%7C%20Django%20%7C%20Data%20Analytics&descAlignY=55&descSize=18" width="100%"/>
+
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Technical+Support+Engineer;Python+%2B+Django+Developer;Data+Analytics+Enthusiast;Backend+Builder+%F0%9F%94%A7;Open+to+Work+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- Badges Row -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Om_Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omkumar00116)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://omkumartiwarii.github.io/portfoliowebsite/)
+[![Email](https://img.shields.io/badge/Gmail-omkumar00116@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omkumar00116@gmail.com)
+[![GitHub followers](https://img.shields.io/github/followers/Omkumartiwarii?style=for-the-badge&logo=github&color=181717)](https://github.com/Omkumartiwarii)
+
+</div>
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🔥 Passionate about **Web Development**
-- 📚 Currently learning **Data Structures & Algorithms (in C++)**
-- 🌍 Open to collaborating on **Open Source Web Projects**
-- 📫 Reach me at: **omkumar00116@gmail.com**
-- 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: *I can turn bugs into features — intentionally or not!*
+```python
+class OmKumar:
+    def __init__(self):
+        self.name       = "Om Kumar"
+        self.role       = "Python Developer | Technical Support | Data Analyst"
+        self.college    = "Govt. Engineering College Sheohar (2022–2026)"
+        self.location   = "Bihar, India 🇮🇳 | Open to Relocation"
+        self.email      = "omkumar00116@gmail.com"
+        self.status     = "🟢 Open to Work"
+
+    def skills(self):
+        return {
+            "Languages"  : ["Python", "SQL", "C"],
+            "Frameworks" : ["Django", "Django REST Framework"],
+            "Databases"  : ["PostgreSQL", "MySQL"],
+            "Data"       : ["Pandas", "NumPy", "EDA", "Data Visualization"],
+            "Tools"      : ["Git", "GitHub", "REST APIs", "Salesforce CRM"],
+            "Interests"  : ["Backend Dev", "Automation", "Technical Support"]
+        }
+
+    def currently(self):
+        return "Building projects, learning everyday, open to opportunities 🚀"
+
+me = OmKumar()
+print(me.currently())
+```
 
 ---
 
-## 🛠️ Tech I Work With
+## 🛠️ Tech Stack
 
-| Frontend        | Backend / Logic     | Tools & Others       |
-|----------------|---------------------|-----------------------|
-| HTML, CSS      | C++ (DSA)           | Git & GitHub          |
-| JavaScript     | (Learning React)    | VS Code               |
-| Bootstrap      |                     | Chrome DevTools       |
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Featured Project
+
+### 🗓️ Clash-Free Timetable Management System
+> Automates timetable generation & eliminates scheduling conflicts
+
+- ⚙️ **Tech:** Django + PostgreSQL + Django REST Framework
+- ✅ Fully automated — no manual conflict resolution needed
+- 🔗 Backend architecture with clean REST APIs
+- 📊 Handles complex constraints like faculty availability & room allocation
+
+---
+
+## 💼 Experience Highlights
+
+| 🏢 Organization | 💼 Role | 📅 Duration |
+|---|---|---|
+| **GRIP Program** | Data Science & Business Analytics | Nov–Dec 2025 |
+| **Cisco** | Data Science Virtual Intern | Sep–Oct 2024 |
+| **Spoken Tutorial (IIT Bombay)** | Python Developer Intern | Sep–Oct 2024 |
+| **Salesforce** | Virtual Intern | Dec 2023–Jan 2024 |
+
+> 🏆 Built predictive models with **~85% accuracy** | Reduced preprocessing time by **50%** | Automated workflows cutting manual effort by **40%**
 
 ---
 
 ## 📊 GitHub Stats
 
-![Om's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Omkumartiwari&show_icons=true&theme=tokyonight)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Omkumartiwari&layout=compact&theme=tokyonight)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Omkumartiwarii&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omkumartiwarii&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
----
+</div>
 
-## 🔗 Let's Connect!
+<div align="center">
 
-Whether it’s collaborating on open source, sharing ideas, or just geeking out on tech — feel free to reach out!
+[![GitHub Streak](https://streak-stats.demolab.com?user=Omkumartiwarii&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-📧 **omkumar00116@gmail.com**
-
----
-
-*Thanks for stopping by! Keep coding and keep learning 🚀*
+</div>
 
 ---
 
-Thanks for visiting my profile! Feel free to connect or collaborate 🚀
+## 🏅 Certifications
+
+- 🥇 **Salesforce Developer** — Virtual Internship Certificate
+- 🥇 **NPTEL** — Problem Solving through Programming in C
+- 🥇 **Spoken Tutorial (IIT Bombay)** — Python & Data Science
+- 🥇 **Cisco** — Data Science Virtual Internship
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Omkumartiwarii&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Let's Connect!
+
+*"I enjoy solving real-world problems through technology — whether building backends, automating workflows, or analyzing data."*
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/omkumar00116)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat-square&logo=firefox)](https://omkumartiwarii.github.io/portfoliowebsite/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail)](mailto:omkumar00116@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+</div>
