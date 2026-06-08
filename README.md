@@ -1,23 +1,5 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=12,20,24&text=Om%20Kumar&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Python%20Developer%20%7C%20Technical%20Support%20Engineer%20%7C%20Data%20Analytics%20%7C%20Open%20to%20Work%20%F0%9F%9A%80&descAlignY=55&descSize=18" width="100%"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Python%20Developer-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Technical%20Support-0A66C2?style=for-the-badge&logo=headspace&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Data%20Analytics-FF6F00?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/OPEN%20TO%20WORK-00C853?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
-<br><br>
-
-<h3>Turning Code into Solutions. Transforming Data into Insights.</h3>
-
+  <img src="Github Banner.png" width="100%" />
 </div>
 
 <!-- Typing Animation -->
