@@ -33,7 +33,7 @@ class OmKumar:
 
     def skills(self):
         return {
-            "Languages"  : ["Python", "SQL", "C"],
+            "Languages"  : ["Python", "SQL", "C", "C++"],
             "Frameworks" : ["Django", "Django REST Framework"],
             "Databases"  : ["PostgreSQL", "MySQL"],
             "Data"       : ["Pandas", "NumPy", "EDA", "Data Visualization"],
