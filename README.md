@@ -36,7 +36,7 @@ class OmKumar:
             "Languages"  : ["Python", "SQL", "C"],
             "Frameworks" : ["Django", "Django REST Framework"],
             "Databases"  : ["PostgreSQL", "MySQL"],
-            "Data"       : ["Pandas", "NumPy", "Data Visualization"],
+            "Data"       : ["Pandas", "NumPy", "EDA", "Data Visualization"],
             "Tools"      : ["Git", "GitHub", "REST APIs", "Salesforce CRM"],
             "Interests"  : ["Backend Dev", "Automation", "Technical Support"]
         }
