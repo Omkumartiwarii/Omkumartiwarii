@@ -112,7 +112,7 @@ print(me.currently())
 
 | 🏢 Organization | 💼 Role | 📅 Duration |
 |---|---|---|
-| **GRIP Program** | Data Science & Business Analytics | Nov–Dec 2025 |
+| **GRIP Program** | Data Science & Business Analytics | 2 Dec –29 Dec 2025 |
 | **Cisco** | Data Science Virtual Intern | Sep–Oct 2024 |
 | **Spoken Tutorial (IIT Bombay)** | Python Developer Intern | Sep–Oct 2024 |
 | **Salesforce** | Virtual Intern | Dec 2023–Jan 2024 |
