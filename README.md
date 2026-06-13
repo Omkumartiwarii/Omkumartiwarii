@@ -140,7 +140,7 @@ print(me.currently())
 
 ## 🏅 Certifications
 
-- 🥇 **Salesforce Developer** — Virtual Internship Certificate
+- 🥇 **Salesforce** — Virtual Internship Certificate
 - 🥇 **NPTEL** — Problem Solving through Programming in C
 - 🥇 **Spoken Tutorial (IIT Bombay)** — Python & Data Science
 - 🥇 **Cisco** — Data Science Virtual Internship
